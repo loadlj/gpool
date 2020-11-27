@@ -1,5 +1,5 @@
 # gpool
-GoLang thread safe connection pool
+Golang thread safe connection pool
 
 ## Install
 
